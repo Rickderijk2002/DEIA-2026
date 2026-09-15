@@ -11,4 +11,5 @@ Build methods for team members using Claude (or another AI assistant) to produce
 
 ## Examples
 
-- `examples/Tabbed site/` — the tabbed-site format from Progress update 1, as a working reference.
+- `examples/Tabbed site/` — empty for now. The Progress update 1 version was outdated and was
+  removed 2026-09-15; a teammate will upload a current one here.
